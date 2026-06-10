@@ -1,0 +1,6 @@
+node_modules/
+session/
+media/*
+!media/.gitkeep
+.env
+.wwebjs_cache
